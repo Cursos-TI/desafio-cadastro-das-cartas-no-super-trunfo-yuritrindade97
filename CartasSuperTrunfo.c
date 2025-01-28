@@ -18,5 +18,4 @@ int main() {
     printf("Insira o código da cidade: ");
     scanf("%d", &codigo);
     
-    return 0;
 }
